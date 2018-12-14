@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Incaps.iml" filepath="$PROJECT_DIR$/Incaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/incaps.iml" filepath="$PROJECT_DIR$/incaps.iml" />
     </modules>
   </component>
 </project>
